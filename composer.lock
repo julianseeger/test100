@@ -53,12 +53,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/brianium/paratest.git",
-                "reference": "51e9c2e18fde7f79b68ebb063934c6bc6a15007f"
+                "reference": "e7e9494022190a03aa37ae7e5a2946b17c31686c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brianium/paratest/zipball/51e9c2e18fde7f79b68ebb063934c6bc6a15007f",
-                "reference": "51e9c2e18fde7f79b68ebb063934c6bc6a15007f",
+                "url": "https://api.github.com/repos/brianium/paratest/zipball/e7e9494022190a03aa37ae7e5a2946b17c31686c",
+                "reference": "e7e9494022190a03aa37ae7e5a2946b17c31686c",
                 "shasum": ""
             },
             "require": {
@@ -105,7 +105,7 @@
                 "phpunit",
                 "testing"
             ],
-            "time": "2014-07-14 14:48:57"
+            "time": "2014-07-22 23:58:29"
         },
         {
             "name": "phpunit/php-code-coverage",
